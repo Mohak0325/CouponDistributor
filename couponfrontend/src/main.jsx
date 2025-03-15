@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename='https://github.com/Mohak0325/CouponDistributor'>
+    <BrowserRouter>
       <App />
     </BrowserRouter>
   </StrictMode>,
