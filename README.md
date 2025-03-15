@@ -7,18 +7,27 @@ This is a live coupon distribution web application that:
 ✅ Implements rate limiting to stop abuse 🚫
 
 🚀 Tech Stack
+
+
 Frontend: React, TailwindCSS
+
 Backend: Node.js, Express.js, MongoDB, Redis
+
 Database: MongoDB
+
 Caching & Rate Limiting: Redis
 
 🎯 Features
+
+
 🔹 Round-robin coupon distribution – ensures fairness
 🔹 Rate limiting (Redis) – prevents abuse
 🔹 Guest protection – users can’t claim multiple coupons by refreshing
 🔹 Admin panel (optional) – allows adding new coupons
 
 🛠️ Installation & Setup
+
+
 1️⃣ Clone the Repository
 git clone
 cd coupon-app
