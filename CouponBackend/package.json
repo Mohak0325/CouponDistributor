@@ -22,6 +22,7 @@
     "express": "^4.21.2",
     "mongoose": "^8.12.1",
     "nodemon": "^3.1.9",
-    "redis": "^4.7.0"
+    "redis": "^4.7.0",
+    "homepage": "https://your-github-mohak0325.github.io/https://github.com/Mohak0325/CouponDistributor/"
   }
 }
